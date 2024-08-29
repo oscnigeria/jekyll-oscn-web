@@ -2,7 +2,6 @@
 layout: post
 title: 'From Ideas to Action: Proposing and Participating in Open Science Projects'
 date: 2024-04-16 19:00:02 +0100
-categories: collaboration
 author: Open Science Community Nigeria
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: 'The Intersection of Open Science and AI in Nigerian Healthcare: Navigating Opportunities and Challenges in Research'
 date: 2024-08-29 13:00:11 +0100
-categories: artificial intellegence, ai, healthcare, research
 author: Nabila Salisu
 ---
 

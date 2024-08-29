@@ -2,7 +2,6 @@
 layout: post
 title: 'Collaborating on Open Science Projects'
 date: 2023-04-26 09:00:02 +0100
-categories: collaboration
 author: Open Science Community Nigeria
 ---
 
