@@ -6,6 +6,8 @@ categories: artificial intellegence, ai, healthcare, research
 author: Nabila Salisu
 ---
 
+![The Intersection of Open Science and AI in Nigerian Healthcare: Navigating Opportunities and Challenges in Research](https://res.cloudinary.com/djrmhn005/image/upload/v1724956626/sg8vadqyq1wcf09agkps.png)
+
 In recent years, the convergence of open science and artificial intelligence (AI) has begun to reshape the landscape of healthcare research globally. However, in Nigeria, this intersection is still in its infancy. While the potential benefits of AI in healthcare research are well recognized, the reality is that many Nigerian researchers lack access to the advanced tools and resources necessary to fully leverage these technologies. This post explores both the opportunities and the challenges that come with integrating open science and AI in Nigerian healthcare research.
 
 ### The Promise of Open Science and AI
